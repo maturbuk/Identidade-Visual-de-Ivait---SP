@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/capa-ivaita.png" alt="Projeto Ivaitá — SP" width="100%">
+  <img src="simbolos-municipais/brasao-municipal.png" alt="Projeto Ivaitá — SP" width="200px">
 </p>
 
 <h1 align="center">Ivaitá — SP</h1>
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ivaita.pages.dev/"><strong>🌐 Explorar a Plataforma Digital</strong></a>
+  <a href="https://ivaita-portal.pages.dev/"><strong>🌐 Explorar a Plataforma Digital</strong></a>
 </p>
 
 ---
@@ -219,13 +219,13 @@ A **Plataforma Digital de Ivaitá** é a manifestação digital desse universo.
 Este repositório contém o protótipo navegável do ecossistema digital municipal, integrando identidade visual, UX/UI, conteúdo institucional e simulações de serviços públicos.
 
 <p align="center">
-  <a href="https://ivaita.pages.dev/">
+  <a href="https://ivaita-portal.pages.dev/">
     <strong>🌐 ACESSAR O PROTÓTIPO ONLINE</strong>
   </a>
 </p>
 
 <p align="center">
-  <code>https://ivaita.pages.dev/</code>
+  <code>https://ivaita-portal.pages.dev/</code>
 </p>
 
 ---

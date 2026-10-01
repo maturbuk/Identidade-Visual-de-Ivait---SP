@@ -36,14 +36,14 @@ Cada uma dessas partes pertence ao mesmo universo e segue um **cânone**, permit
 
 | Área | O que é desenvolvido | Documentação |
 | --- | --- | --- |
-| 🌎 **Worldbuilding** | História, território, bairros, distritos, personagens, patrimônio, acontecimentos e memória coletiva | [Explorar →](docs/worldbuilding/README.md) |
-| 🎨 **Identidade Visual** | Brasão, bandeira, cores, tipografia, símbolos, design system e aplicações institucionais | [Explorar →](docs/identidade-visual/README.md) |
-| 📖 **Storytelling** | Tradições, famílias, acontecimentos históricos, cultura e narrativas do município | [Explorar →](docs/storytelling/README.md) |
-| 📢 **Comunicação** | Campanhas públicas, notícias, cartazes, publicidade, eventos e materiais institucionais | [Explorar →](docs/comunicacao/README.md) |
-| 📷 **Direção de Arte** | Arquitetura, paisagens, fotografia, representação urbana e continuidade visual | [Explorar →](docs/direcao-de-arte/README.md) |
-| 🎬 **Audiovisual** | Vídeos institucionais, turismo, campanhas, registros fictícios e peças para redes sociais | [Explorar →](docs/audiovisual/README.md) |
-| 🧭 **Turismo & Cultura** | Patrimônio, natureza, ferrovia histórica, festas, gastronomia e roteiros | [Explorar →](docs/turismo-cultura/README.md) |
-| 💻 **Produtos Digitais** | Portal público, Área do Servidor, administração, serviços, turismo e experiências digitais | [Explorar →](docs/produtos-digitais/README.md) |
+| 🌎 **Worldbuilding** | História, território, bairros, distritos, personagens, patrimônio, acontecimentos e memória coletiva  |
+| 🎨 **Identidade Visual** | Brasão, bandeira, cores, tipografia, símbolos, design system e aplicações institucionais |
+| 📖 **Storytelling** | Tradições, famílias, acontecimentos históricos, cultura e narrativas do município | 
+| 📢 **Comunicação** | Campanhas públicas, notícias, cartazes, publicidade, eventos e materiais institucionais | 
+| 📷 **Direção de Arte** | Arquitetura, paisagens, fotografia, representação urbana e continuidade visual | 
+| 🎬 **Audiovisual** | Vídeos institucionais, turismo, campanhas, registros fictícios e peças para redes sociais | 
+| 🧭 **Turismo & Cultura** | Patrimônio, natureza, ferrovia histórica, festas, gastronomia e roteiros | 
+| 💻 **Produtos Digitais** | Portal público, Área do Servidor, administração, serviços, turismo e experiências digitais |
 
 ---
 

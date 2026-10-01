@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Worldbuilding · Identidade Visual · Storytelling · Comunicação · Audiovisual · UX/UI · Desenvolvimento
+  Worldbuilding · Identidade Visual · Storytelling · Design · IA Generativa · Audiovisual · UX/UI · Desenvolvimento
 </p>
 
 <p align="center">
@@ -26,34 +26,85 @@ A proposta parte de uma pergunta:
 
 > **Até onde é possível construir uma cidade que não existe e, ainda assim, fazê-la possuir a coerência histórica, visual, cultural, institucional e digital de um município real?**
 
-Ivaitá não foi criada apenas como cenário para um site fictício. Possui território, história, população, bairros, distritos, patrimônio, símbolos, arquitetura, tradições, festas, serviços públicos, paisagens, comunicação institucional e produtos digitais próprios.
+Ivaitá não foi criada apenas como cenário para um site fictício.
 
-Cada uma dessas partes pertence ao mesmo universo e segue um **cânone**, permitindo que uma decisão tomada na história ou na geografia da cidade também seja respeitada em fotografias, mapas, vídeos, campanhas, interfaces e serviços digitais.
+A cidade possui **território, história, população, regiões, patrimônio, símbolos, arquitetura, personagens, tradições, festas, serviços públicos, paisagens, comunicação institucional e produtos digitais próprios**.
+
+Cada uma dessas partes pertence ao mesmo universo e segue um **cânone**, permitindo que decisões tomadas na história, na geografia ou na identidade da cidade também sejam respeitadas em mapas, fotografias, vídeos, campanhas, interfaces e serviços digitais.
 
 ---
 
-## ✦ Um município construído em várias camadas
+## 🧭 Explore o Projeto
+
+Ivaitá é construída em diferentes frentes que compartilham o mesmo universo e seguem uma lógica de continuidade.
+
+A documentação abaixo apresenta tanto os fundamentos do município fictício quanto suas aplicações em **design, comunicação, território e produtos digitais**.
 
 | Área | O que é desenvolvido | Documentação |
 | --- | --- | --- |
-| 🌎 **Worldbuilding** | História, território, bairros, distritos, personagens, patrimônio, acontecimentos e memória coletiva  |
-| 🎨 **Identidade Visual** | Brasão, bandeira, cores, tipografia, símbolos, design system e aplicações institucionais |
-| 📖 **Storytelling** | Tradições, famílias, acontecimentos históricos, cultura e narrativas do município | 
-| 📢 **Comunicação** | Campanhas públicas, notícias, cartazes, publicidade, eventos e materiais institucionais | 
-| 📷 **Direção de Arte** | Arquitetura, paisagens, fotografia, representação urbana e continuidade visual | 
-| 🎬 **Audiovisual** | Vídeos institucionais, turismo, campanhas, registros fictícios e peças para redes sociais | 
-| 🧭 **Turismo & Cultura** | Patrimônio, natureza, ferrovia histórica, festas, gastronomia e roteiros | 
-| 💻 **Produtos Digitais** | Portal público, Área do Servidor, administração, serviços, turismo e experiências digitais |
+| 🌎 **Worldbuilding, Storytelling & Cânone** | História, território, cronologia, personagens, famílias, acontecimentos, patrimônio, cultura, tradições, serviços, mobilidade e regras de continuidade que estruturam o universo de Ivaitá | [📖 Consultar o Cânone →](docs/Canone_Ivaita_SP_Consolidado_v0.01.pdf) |
+| 🗺️ **Território & Construção Visual** | Regiões, bairros, distritos, arquitetura, paisagens, natureza, turismo e referências que estabelecem como os diferentes lugares de Ivaitá são representados visualmente | [📷 Explorar bairros e paisagens →](bairros-e-distritos/README.md) |
+| 🛡️ **Símbolos & Identidade Municipal** | Brasão, bandeira, heráldica, vexilologia, simbologia, cores institucionais e relação entre os símbolos históricos e a identidade contemporânea | [🎨 Explorar símbolos municipais →](simbolos-municipais/README.md) |
+| 📢 **Comunicação & Campanhas** | Campanhas institucionais, utilidade pública, saúde, meio ambiente, segurança, tributos e aplicações da comunicação visual municipal | [📣 Explorar campanhas →](campanhas/README.md) |
+| 💻 **UX/UI & Produtos Digitais** | Portal Público, Carta de Serviços, galerias, Área do Servidor, Painel Administrativo, design system e experiências digitais do município | [🖥️ Explorar interfaces →](screenshots/README.md) |
+| 🌐 **Plataforma Digital** | Protótipo navegável que conecta serviços, conteúdo institucional, turismo, comunicação, UX/UI e administração simulada em uma única experiência | [🚀 Acessar plataforma →](https://ivaita-portal.pages.dev/) |
 
 ---
 
-## 🌎 Worldbuilding
+## 🔗 Como essas áreas se conectam
 
-Ivaitá é construída como uma cidade com **passado, presente e continuidade**. História, território, bairros, patrimônio, ferrovia, agricultura, personagens, tradições, turismo e desenvolvimento urbano fazem parte de um mesmo cânone.
+O projeto não trata essas disciplinas como trabalhos independentes.
 
-### Continuidade é uma regra do projeto
+Cada camada utiliza informações estabelecidas pelas anteriores e, ao mesmo tempo, contribui para expandir o universo.
 
-Cada elemento consolidado passa a orientar as próximas criações:
+```text
+WORLDBUILDING
+história + território + sociedade
+        ↓
+STORYTELLING
+pessoas + memória + acontecimentos
+        ↓
+CÂNONE
+continuidade + regras + referências
+        ↓
+IDENTIDADE & DIREÇÃO DE ARTE
+símbolos + arquitetura + paisagem
+        ↓
+COMUNICAÇÃO & AUDIOVISUAL
+campanhas + fotografia + vídeo
+        ↓
+UX/UI & DESENVOLVIMENTO
+serviços + interfaces + experiências
+        ↓
+PLATAFORMA DIGITAL DE IVAITÁ
+```
+
+O resultado é um projeto em que **um mapa, uma fotografia, uma campanha, um ônibus, um cartão de transporte, uma notícia ou uma interface digital pertencem à mesma cidade**.
+
+---
+
+## 📚 O Cânone
+
+O **Cânone de Ivaitá** funciona como documento central de continuidade do projeto.
+
+Ele reúne e organiza informações sobre:
+
+- história e cronologia;
+- geografia e território;
+- regiões e centralidades;
+- personagens e famílias;
+- patrimônio histórico;
+- cultura e tradições;
+- turismo;
+- ferrovia histórica e cargueira;
+- serviços municipais;
+- mobilidade;
+- identidade institucional;
+- heráldica e vexilologia;
+- memória coletiva;
+- regras de continuidade.
+
+Uma regra simples orienta diferentes manifestações do universo:
 
 ```text
 MAPA → define onde
@@ -63,58 +114,33 @@ COMUNICAÇÃO → transforma em conteúdo
 PLATAFORMA DIGITAL → conecta o universo
 ```
 
-Assim, lugares, edifícios e tradições podem aparecer em diferentes mídias preservando sua identidade.
+Elementos consolidados passam a orientar novas criações.
+
+Um edifício aprovado mantém sua arquitetura.
+
+Uma região mantém sua posição geográfica.
+
+Uma tradição mantém sua história.
+
+Um símbolo mantém seu significado.
+
+> **Ivaitá cresce sem ser constantemente reinventada.**
+
+<p align="center">
+  <a href="docs/Canone_Ivaita_SP_Consolidado_v0.01.pdf">
+    <strong>📖 CONSULTAR O CÂNONE DE IVAITÁ</strong>
+  </a>
+</p>
 
 ---
 
-## 🎨 Identidade Visual
-
-Ivaitá possui uma identidade municipal própria, composta por **brasão, bandeira, símbolos, cores, tipografia, iconografia, design system e identidades institucionais e turísticas**.
-
-Elementos aprovados passam a integrar o cânone visual e são preservados nas diferentes aplicações do município.
-
----
-
-## 📷 Construção Visual
-
-Mapas, fotografias e direção de arte dão forma física à cidade, incluindo regiões como **Centro Histórico, Sede Nova, Nova Ivaitá, Alto dos Vinhedos, Centro Logístico Rio Itararé e Parque Vale Verde**.
-
-> **Mapa define onde. Fotografia define como.**
-
-Uma referência visual consolidada orienta futuras representações, mantendo coerência entre arquitetura, paisagem, geografia e infraestrutura.
-
----
-
-## 📖 Cultura & Tradições
-
-As manifestações culturais recebem história, calendário, símbolos e representação visual próprios.
-
-A **Festa da Vindima**, por exemplo, conecta os vinhedos, famílias produtoras, gastronomia, tradições rurais, ferrovia turística e Parque Vale Verde em uma celebração pertencente ao universo de Ivaitá.
-
-Esses elementos podem depois aparecer em notícias, campanhas, fotografias, vídeos e na própria plataforma digital.
-
----
-
-## 📢 Comunicação & Publicidade
-
-O projeto simula também a comunicação de um município real, produzindo **campanhas institucionais, notícias, utilidade pública, eventos, turismo, cultura e conteúdo para redes sociais**.
-
-A comunicação procura manter uma linguagem municipal brasileira plausível sem perder a personalidade própria de Ivaitá.
-
----
-
-## 🎬 Fotografia & Audiovisual
-
-Fotografia, vídeo e animação expandem visualmente o universo por meio de **paisagens, registros documentais fictícios, campanhas, eventos e produções turísticas e institucionais**.
-
-Ferramentas tradicionais e **IA generativa** fazem parte do processo, sempre sob direção e curadoria para preservar o cânone e a continuidade visual.
-
----
 # 💻 Plataforma Digital de Ivaitá
 
 A **Plataforma Digital de Ivaitá** é a manifestação digital desse universo.
 
-O protótipo navegável simula o ecossistema digital municipal, integrando identidade visual, UX/UI, conteúdo institucional e experiências de serviços públicos. Este repositório apresenta e documenta seu desenvolvimento.
+O protótipo navegável simula o ecossistema digital municipal, integrando **identidade visual, UX/UI, conteúdo institucional e experiências de serviços públicos**.
+
+Este repositório apresenta e documenta seu desenvolvimento, enquanto a aplicação pode ser explorada diretamente pelo navegador.
 
 <p align="center">
   <a href="https://ivaita-portal.pages.dev/">
@@ -127,6 +153,8 @@ O protótipo navegável simula o ecossistema digital municipal, integrando ident
 </p>
 
 ---
+
+## 🧩 Ambientes da plataforma
 
 A demonstração reúne três ambientes principais:
 
@@ -144,9 +172,9 @@ Use a opção **Sou servidor municipal** na tela de login.
 
 | Cenário | Usuário | Senha | Dados simulados |
 | --- | --- | --- | --- |
-| Professora com dois REs | `ana.prof` | `ivaita123` | RE 01245 e RE 08421; possui uma falta abonada e uma abonada de aniversário recentes. |
-| Servidor com um RE | `carlos.silva` | `ivaita123` | RE 03917; não possui avisos ou solicitações registrados. |
-| Efetiva em cargo de comissão | `renata.gomes` | `ivaita123` | RE 06390; cargo efetivo, cargo em comissão e vários pedidos registrados nos últimos 30 dias. |
+| Professora com dois REs | `ana.prof` | `ivaita123` | RE 01245 e RE 08421; possui uma falta abonada e uma abonada de aniversário recentes |
+| Servidor com um RE | `carlos.silva` | `ivaita123` | RE 03917; não possui avisos ou solicitações registrados |
+| Efetiva em cargo de comissão | `renata.gomes` | `ivaita123` | RE 06390; cargo efetivo, cargo em comissão e vários pedidos registrados nos últimos 30 dias |
 
 ---
 
@@ -162,12 +190,15 @@ Use a opção **Acesso administrativo** na tela de login e informe uma das crede
 
 > 🔓 **Ambiente demonstrativo:** todas as credenciais acima são públicas e fictícias. Elas existem exclusivamente para permitir a exploração das funcionalidades do protótipo e não correspondem a contas ou sistemas reais.
 
+---
 
 ## 🔄 Experimente administrar a cidade
 
 O **Painel Administrativo e o Portal Público estão integrados dentro da demonstração**.
 
-Experimente acessar o Admin e realizar ações como criar, editar, publicar, desativar ou organizar um conteúdo. Depois, retorne ao Portal Público para visualizar o resultado da alteração.
+É possível acessar o Admin e realizar ações como criar, editar, publicar, desativar ou organizar conteúdos.
+
+Depois, basta retornar ao Portal Público para visualizar o resultado da alteração.
 
 ```text
 PAINEL ADMINISTRATIVO
@@ -181,24 +212,36 @@ PORTAL PÚBLICO
 conteúdo atualizado
 ```
 
-As alterações possuem **persistência no navegador**: elas continuam disponíveis mesmo após atualizar ou fechar e reabrir a página no mesmo navegador.
+As alterações possuem **persistência no navegador**: continuam disponíveis mesmo após atualizar ou fechar e reabrir a página no mesmo navegador.
 
-Por se tratar de um protótipo demonstrativo, essa persistência é local. Portanto, alterações realizadas por um visitante **não modificam a experiência de outros usuários ou dispositivos**.
+Por se tratar de um protótipo demonstrativo, essa persistência é local.
 
-Isso permite experimentar livremente os recursos administrativos sem alterar a versão pública original para outras pessoas.
+Isso significa que alterações realizadas por um visitante **não modificam a experiência de outros usuários ou dispositivos** e não alteram os arquivos originais do projeto.
 
 ---
 
-## 📸 Screenshots
+## 📸 Interfaces
 
 <p align="center">
-  <img src="screenshots/home.png" alt="Página inicial da Plataforma Digital de Ivaitá" width="48%">
-  <img src="screenshots/galeria.png" alt="Galeria de Fotos e Videos" width="48%">
+  <a href="screenshots/home.png">
+    <img src="screenshots/home.png" alt="Página inicial da Plataforma Digital de Ivaitá" width="48%">
+  </a>
+  <a href="screenshots/galeria.png">
+    <img src="screenshots/galeria.png" alt="Galeria de Fotos e Vídeos de Ivaitá" width="48%">
+  </a>
 </p>
 
 <p align="center">
-  <img src="screenshots/carta-servicos.png" alt="Serviços municipais de Ivaitá" width="48%">
-  <img src="screenshots/area-admin.png" alt="Painel Administrativo de Ivaitá" width="48%">
+  <a href="screenshots/carta-servicos.png">
+    <img src="screenshots/carta-servicos.png" alt="Carta de Serviços da Plataforma Digital de Ivaitá" width="48%">
+  </a>
+  <a href="screenshots/area-admin.png">
+    <img src="screenshots/area-admin.png" alt="Painel Administrativo de Ivaitá" width="48%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="screenshots/README.md"><strong>🖥️ Explorar documentação das interfaces →</strong></a>
 </p>
 
 ---
@@ -207,31 +250,39 @@ Isso permite experimentar livremente os recursos administrativos sem alterar a v
 
 A versão pública do protótipo está hospedada no **Cloudflare Pages**.
 
-**https://ivaita-portal.pages.dev/**
+<p align="center">
+  <a href="https://ivaita-portal.pages.dev/">
+    <strong>🌐 ivaita-portal.pages.dev</strong>
+  </a>
+</p>
 
 ---
 
-## 🧰 Processo criativo e ferramentas
+# 🧰 Processo criativo e ferramentas
 
 O universo de Ivaitá é desenvolvido por meio de um processo híbrido que combina **direção criativa, design tradicional, desenvolvimento de software e inteligência artificial generativa**.
 
 A IA generativa é utilizada como uma das ferramentas do processo para explorar e produzir conceitos visuais, imagens, cenas, materiais audiovisuais, textos, storytelling, worldbuilding e apoio ao desenvolvimento.
 
-Esses materiais passam por um processo de **direção, seleção, curadoria, edição, composição e continuidade**, buscando preservar o cânone e a identidade estabelecida para o município.
+Esses materiais passam por um processo de **direção, seleção, curadoria, edição, composição e controle de continuidade**, buscando preservar o cânone e a identidade estabelecida para o município.
 
 Ferramentas tradicionais de design, edição e desenvolvimento também fazem parte do fluxo de produção.
 
-### Ferramentas utilizadas
+---
+
+## 🛠️ Ferramentas utilizadas
 
 | Área | Ferramentas |
 | --- | --- |
-| 🎨 Design e identidade visual | Adobe Illustrator, Adobe Photoshop e Figma |
-| 🎬 Edição e produção audiovisual | Movavi Video Editor |
-| 💻 Desenvolvimento | Visual Studio Code |
-| ✨ Criação generativa | Ferramentas de IA generativa para texto, imagem, vídeo, áudio e apoio ao desenvolvimento |
-| 🌐 Publicação | GitHub e Cloudflare Pages |
+| 🎨 **Design e identidade visual** | Adobe Illustrator, Adobe Photoshop e Figma |
+| 🎬 **Edição e produção audiovisual** | Movavi Video Editor |
+| 💻 **Desenvolvimento** | Visual Studio Code |
+| ✨ **Criação generativa** | Ferramentas de IA generativa para texto, imagem, vídeo, áudio e apoio ao desenvolvimento |
+| 🌐 **Publicação** | GitHub e Cloudflare Pages |
 
-### Fluxo de criação
+---
+
+## 🔄 Fluxo de criação
 
 ```text
 Pesquisa e conceito
@@ -251,6 +302,23 @@ Aplicação em comunicação / audiovisual / software
 Integração ao universo de Ivaitá
 ```
 
+A inteligência artificial não substitui a direção do projeto.
+
+Ela integra um processo maior de **concepção, direção, experimentação, seleção, edição e continuidade**, juntamente com ferramentas tradicionais de design, audiovisual e desenvolvimento.
+
+---
+
+# 📂 Navegue pelo repositório
+
+| Conteúdo | Acesso |
+| --- | --- |
+| 📖 **Cânone de Ivaitá** | [Abrir documento →](docs/Canone_Ivaita_SP_Consolidado_v0.01.pdf) |
+| 🗺️ **Bairros, distritos e paisagens** | [Explorar →](bairros-e-distritos/README.md) |
+| 🛡️ **Símbolos municipais** | [Explorar →](simbolos-municipais/README.md) |
+| 📢 **Campanhas institucionais** | [Explorar →](campanhas/README.md) |
+| 🖥️ **Screenshots e UX/UI** | [Explorar →](screenshots/README.md) |
+| 🌐 **Plataforma Digital** | [Acessar →](https://ivaita-portal.pages.dev/) |
+
 ---
 
 ## ⚠️ Sobre o projeto
@@ -261,9 +329,15 @@ Nomes de órgãos municipais, serviços, notícias, eventos, documentos, persona
 
 O conteúdo não deve ser interpretado como informação oficial de qualquer município real.
 
-O código-fonte da aplicação não faz parte da versão pública deste projeto. Este repositório funciona como **apresentação, documentação e registro do processo de construção do universo de Ivaitá**.
+O código-fonte da aplicação não faz parte da versão pública deste projeto.
+
+Este repositório funciona como **portfólio, documentação e registro do processo de construção do universo de Ivaitá**.
 
 ---
+
+<p align="center">
+  <img src="simbolos-municipais/brasao-municipal.png" alt="Brasão de Ivaitá" width="90px">
+</p>
 
 <p align="center">
   <strong>Ivaitá — SP</strong><br>
@@ -271,5 +345,7 @@ O código-fonte da aplicação não faz parte da versão pública deste projeto.
 </p>
 
 <p align="center">
-  <a href="https://ivaita-portal.pages.dev/"><strong>🌐 Explorar a Plataforma Digital</strong></a>
+  <a href="docs/Canone_Ivaita_SP_Consolidado_v0.01.pdf"><strong>📖 Cânone</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://ivaita-portal.pages.dev/"><strong>🌐 Plataforma Digital</strong></a>
 </p>

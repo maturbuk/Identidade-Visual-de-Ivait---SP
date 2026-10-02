@@ -14,13 +14,15 @@
 
 <p align="center">
   <a href="https://ivaita-portal.pages.dev/"><strong>🌐 Explorar a Plataforma Digital</strong></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/maturbuk/Identidade-Visual-de-Ivait---SP/releases/tag/V0.1"><strong>📱 Baixar App Android</strong></a>
 </p>
 
 ---
 
 ## 🏙️ O Projeto Ivaitá
 
-**Ivaitá-SP** é um município fictício do interior de São Paulo desenvolvido como um projeto multidisciplinar de **worldbuilding, identidade visual, storytelling, comunicação, audiovisual, UX/UI e desenvolvimento de software**.
+**Ivaitá-SP** é um município fictício do interior de São Paulo desenvolvido como um projeto multidisciplinar de **worldbuilding, identidade visual, storytelling, comunicação, audiovisual, UX/UI e produtos digitais**.
 
 A proposta parte de uma pergunta:
 
@@ -38,16 +40,17 @@ Cada uma dessas partes pertence ao mesmo universo e segue um **cânone**, permit
 
 Ivaitá é construída em diferentes frentes que compartilham o mesmo universo e seguem uma lógica de continuidade.
 
-A documentação abaixo apresenta tanto os fundamentos do município fictício quanto suas aplicações em **design, comunicação, território e produtos digitais**.
+A documentação abaixo apresenta tanto os fundamentos do município fictício quanto suas aplicações em **design, comunicação, território, audiovisual e produtos digitais**.
 
-| Área | O que é desenvolvido | Documentação |
+| Área | O que é desenvolvido | Explorar |
 | --- | --- | --- |
 | 🌎 **Worldbuilding, Storytelling & Cânone** | História, território, cronologia, personagens, famílias, acontecimentos, patrimônio, cultura, tradições, serviços, mobilidade e regras de continuidade que estruturam o universo de Ivaitá | [📖 Consultar o Cânone →](docs/Canone_Ivaita_SP_Consolidado_v0.01.pdf) |
-| 🗺️ **Território & Construção Visual** | Regiões, bairros, distritos, arquitetura, paisagens, natureza, turismo e referências que estabelecem como os diferentes lugares de Ivaitá são representados visualmente | [📷 Explorar bairros e paisagens →](bairros-e-distritos/README.md) |
-| 🛡️ **Símbolos & Identidade Municipal** | Brasão, bandeira, heráldica, vexilologia, simbologia, cores institucionais e relação entre os símbolos históricos e a identidade contemporânea | [🎨 Explorar símbolos municipais →](simbolos-municipais/README.md) |
-| 📢 **Comunicação & Campanhas** | Campanhas institucionais, utilidade pública, saúde, meio ambiente, segurança, tributos e aplicações da comunicação visual municipal | [📣 Explorar campanhas →](campanhas/README.md) |
-| 💻 **UX/UI & Produtos Digitais** | Portal Público, Carta de Serviços, galerias, Área do Servidor, Painel Administrativo, design system e experiências digitais do município | [🖥️ Explorar interfaces →](screenshots/README.md) |
-| 🌐 **Plataforma Digital** | Protótipo navegável que conecta serviços, conteúdo institucional, turismo, comunicação, UX/UI e administração simulada em uma única experiência | [🚀 Acessar plataforma →](https://ivaita-portal.pages.dev/) |
+| 🗺️ **Território & Construção Visual** | Regiões, bairros, distritos, arquitetura, paisagens, natureza, turismo e referências responsáveis por estabelecer visualmente os diferentes lugares da cidade | [📷 Explorar bairros e paisagens →](bairros-e-distritos/README.md) |
+| 🛡️ **Símbolos & Identidade Municipal** | Brasão, bandeira, heráldica, vexilologia, simbologia, cores institucionais e aplicações da identidade municipal | [🎨 Explorar símbolos →](simbolos-municipais/README.md) |
+| 📢 **Comunicação & Campanhas** | Campanhas institucionais, utilidade pública, saúde, meio ambiente, segurança, tributos e outras aplicações da comunicação municipal | [📣 Explorar campanhas →](campanhas/README.md) |
+| 💻 **UX/UI & Produtos Digitais** | Interfaces, arquitetura da informação, serviços, galerias, Área do Servidor, administração e experiências digitais | [🖥️ Explorar interfaces →](screenshots/README.md) |
+| 🌐 **Plataforma Web** | Portal Público, serviços digitais, Área do Servidor e Painel Administrativo em um protótipo navegável | [🚀 Acessar plataforma →](https://ivaita-portal.pages.dev/) |
+| 📱 **Aplicativo Ivaitá** | Experiência mobile de serviços municipais desenvolvida em Flutter e integrada à identidade do município | [📦 Baixar APK — V0.1 →](https://github.com/maturbuk/Identidade-Visual-de-Ivait---SP/releases/tag/V0.1) |
 
 ---
 
@@ -73,17 +76,17 @@ símbolos + arquitetura + paisagem
 COMUNICAÇÃO & AUDIOVISUAL
 campanhas + fotografia + vídeo
         ↓
-UX/UI & DESENVOLVIMENTO
-serviços + interfaces + experiências
+UX/UI & PRODUTOS DIGITAIS
+interfaces + serviços + experiências
         ↓
-PLATAFORMA DIGITAL DE IVAITÁ
+ECOSSISTEMA DIGITAL DE IVAITÁ
 ```
 
-O resultado é um projeto em que **um mapa, uma fotografia, uma campanha, um ônibus, um cartão de transporte, uma notícia ou uma interface digital pertencem à mesma cidade**.
+O resultado é um projeto em que **um mapa, uma fotografia, uma campanha, um ônibus, um cartão de transporte, uma notícia, um aplicativo ou uma interface digital pertencem à mesma cidade**.
 
 ---
 
-## 📚 O Cânone
+# 📚 O Cânone
 
 O **Cânone de Ivaitá** funciona como documento central de continuidade do projeto.
 
@@ -111,7 +114,7 @@ MAPA → define onde
 FOTOGRAFIA → define como
 STORYTELLING → define história e significado
 COMUNICAÇÃO → transforma em conteúdo
-PLATAFORMA DIGITAL → conecta o universo
+PRODUTOS DIGITAIS → conectam o universo
 ```
 
 Elementos consolidados passam a orientar novas criações.
@@ -134,17 +137,41 @@ Um símbolo mantém seu significado.
 
 ---
 
-# 💻 Plataforma Digital de Ivaitá
+# 💻 Ecossistema Digital de Ivaitá
 
-A **Plataforma Digital de Ivaitá** é a manifestação digital desse universo.
+O universo de Ivaitá também se transforma em produtos digitais.
 
-O protótipo navegável simula o ecossistema digital municipal, integrando **identidade visual, UX/UI, conteúdo institucional e experiências de serviços públicos**.
+O projeto explora como identidade, informação e serviços de um município poderiam funcionar em diferentes dispositivos por meio de uma **Plataforma Web** e de um **Aplicativo Mobile**.
 
-Este repositório apresenta e documenta seu desenvolvimento, enquanto a aplicação pode ser explorada diretamente pelo navegador.
+```text
+ECOSSISTEMA DIGITAL
+        │
+        ├── 🌐 PLATAFORMA WEB
+        │      ├── Portal Público
+        │      ├── Serviços
+        │      ├── Notícias e eventos
+        │      ├── Galerias
+        │      ├── Área do Servidor
+        │      └── Painel Administrativo
+        │
+        └── 📱 APLICATIVO MOBILE
+               ├── Home
+               ├── Serviços
+               ├── Notícias
+               └── Ouvidoria
+```
+
+---
+
+## 🌐 Plataforma Web
+
+A **Plataforma Digital de Ivaitá** é um protótipo navegável que simula parte do ecossistema digital municipal.
+
+A experiência integra **identidade visual, UX/UI, conteúdo institucional e serviços públicos simulados** dentro do mesmo universo.
 
 <p align="center">
   <a href="https://ivaita-portal.pages.dev/">
-    <strong>🌐 ACESSAR O PROTÓTIPO ONLINE</strong>
+    <strong>🌐 ACESSAR O PROTÓTIPO WEB</strong>
   </a>
 </p>
 
@@ -152,11 +179,7 @@ Este repositório apresenta e documenta seu desenvolvimento, enquanto a aplicaç
   <code>https://ivaita-portal.pages.dev/</code>
 </p>
 
----
-
-## 🧩 Ambientes da plataforma
-
-A demonstração reúne três ambientes principais:
+### 🧩 Ambientes da plataforma
 
 | Ambiente | Experiência |
 | --- | --- |
@@ -212,11 +235,40 @@ PORTAL PÚBLICO
 conteúdo atualizado
 ```
 
-As alterações possuem **persistência no navegador**: continuam disponíveis mesmo após atualizar ou fechar e reabrir a página no mesmo navegador.
+As alterações possuem **persistência no navegador** e continuam disponíveis mesmo após atualizar ou fechar e reabrir a página no mesmo navegador.
 
 Por se tratar de um protótipo demonstrativo, essa persistência é local.
 
-Isso significa que alterações realizadas por um visitante **não modificam a experiência de outros usuários ou dispositivos** e não alteram os arquivos originais do projeto.
+Alterações realizadas por um visitante **não modificam a experiência de outros usuários ou dispositivos** e não alteram os arquivos originais do projeto.
+
+---
+
+## 📱 Aplicativo Ivaitá
+
+O **App Ivaitá** é a experiência mobile desenvolvida para o mesmo universo.
+
+O projeto nasceu como um estudo de **UX/UI para aplicativos municipais** e foi posteriormente incorporado a Ivaitá, compartilhando sua identidade visual e contexto institucional.
+
+O aplicativo reúne atualmente:
+
+- 🏠 **Home** com informações e notícias;
+- 🧭 **Serviços** organizados por categorias;
+- 📢 **Ouvidoria** para simulação da comunicação com o município;
+- 📰 **Notícias** e informações institucionais.
+
+A interface utiliza **Montserrat** como tipografia e foi desenvolvida utilizando **Flutter e Dart**.
+
+### 📦 APK para Android — V0.1
+
+Uma versão demonstrativa do aplicativo está disponível para instalação em dispositivos Android.
+
+<p align="center">
+  <a href="https://github.com/maturbuk/Identidade-Visual-de-Ivait---SP/releases/tag/V0.1">
+    <strong>📱 BAIXAR APP IVAITÁ — APK V0.1</strong>
+  </a>
+</p>
+
+> ⚠️ **Instalação externa:** o aplicativo não é distribuído pela Google Play Store. Dependendo da versão do Android, poderá ser necessário autorizar a instalação de aplicativos provenientes de outras fontes. 
 
 ---
 
@@ -241,18 +293,8 @@ Isso significa que alterações realizadas por um visitante **não modificam a e
 </p>
 
 <p align="center">
-  <a href="screenshots/README.md"><strong>🖥️ Explorar documentação das interfaces →</strong></a>
-</p>
-
----
-
-## ☁️ Demonstração online
-
-A versão pública do protótipo está hospedada no **Cloudflare Pages**.
-
-<p align="center">
-  <a href="https://ivaita-portal.pages.dev/">
-    <strong>🌐 ivaita-portal.pages.dev</strong>
+  <a href="screenshots/README.md">
+    <strong>🖥️ Explorar documentação das interfaces →</strong>
   </a>
 </p>
 
@@ -260,13 +302,13 @@ A versão pública do protótipo está hospedada no **Cloudflare Pages**.
 
 # 🧰 Processo criativo e ferramentas
 
-O universo de Ivaitá é desenvolvido por meio de um processo híbrido que combina **direção criativa, design tradicional, desenvolvimento de software e inteligência artificial generativa**.
+O universo de Ivaitá é desenvolvido por meio de um processo híbrido que combina **direção criativa, design tradicional, UX/UI, audiovisual, desenvolvimento e inteligência artificial generativa**.
 
-A IA generativa é utilizada como uma das ferramentas do processo para explorar e produzir conceitos visuais, imagens, cenas, materiais audiovisuais, textos, storytelling, worldbuilding e apoio ao desenvolvimento.
+A IA generativa é utilizada como uma das ferramentas do processo para explorar e produzir conceitos visuais, imagens, cenas, materiais audiovisuais, textos, storytelling, worldbuilding e apoio à implementação de produtos digitais.
 
 Esses materiais passam por um processo de **direção, seleção, curadoria, edição, composição e controle de continuidade**, buscando preservar o cânone e a identidade estabelecida para o município.
 
-Ferramentas tradicionais de design, edição e desenvolvimento também fazem parte do fluxo de produção.
+A tecnologia funciona como meio para transformar conceitos, interfaces e experiências projetadas em produtos interativos.
 
 ---
 
@@ -276,7 +318,7 @@ Ferramentas tradicionais de design, edição e desenvolvimento também fazem par
 | --- | --- |
 | 🎨 **Design e identidade visual** | Adobe Illustrator, Adobe Photoshop e Figma |
 | 🎬 **Edição e produção audiovisual** | Movavi Video Editor |
-| 💻 **Desenvolvimento** | Visual Studio Code |
+| 💻 **Desenvolvimento e experimentação** | Visual Studio Code, React, Vite, Flutter e Dart |
 | ✨ **Criação generativa** | Ferramentas de IA generativa para texto, imagem, vídeo, áudio e apoio ao desenvolvimento |
 | 🌐 **Publicação** | GitHub e Cloudflare Pages |
 
@@ -291,13 +333,15 @@ Worldbuilding e cânone
         ↓
 Direção criativa
         ↓
-Design + IA generativa
+UX/UI + Design
+        ↓
+IA generativa + experimentação
         ↓
 Seleção e curadoria
         ↓
 Edição e acabamento
         ↓
-Aplicação em comunicação / audiovisual / software
+Comunicação / Audiovisual / Produtos Digitais
         ↓
 Integração ao universo de Ivaitá
 ```
@@ -317,11 +361,12 @@ Ela integra um processo maior de **concepção, direção, experimentação, sel
 | 🛡️ **Símbolos municipais** | [Explorar →](simbolos-municipais/README.md) |
 | 📢 **Campanhas institucionais** | [Explorar →](campanhas/README.md) |
 | 🖥️ **Screenshots e UX/UI** | [Explorar →](screenshots/README.md) |
-| 🌐 **Plataforma Digital** | [Acessar →](https://ivaita-portal.pages.dev/) |
+| 🌐 **Plataforma Web** | [Acessar →](https://ivaita-portal.pages.dev/) |
+| 📱 **Aplicativo Android — APK V0.1** | [Baixar release →](https://github.com/maturbuk/Identidade-Visual-de-Ivait---SP/releases/tag/V0.1) |
 
 ---
 
-## ⚠️ Sobre o projeto
+# ⚠️ Sobre o projeto
 
 **Ivaitá-SP é uma criação fictícia.**
 
@@ -329,7 +374,9 @@ Nomes de órgãos municipais, serviços, notícias, eventos, documentos, persona
 
 O conteúdo não deve ser interpretado como informação oficial de qualquer município real.
 
-O código-fonte da aplicação não faz parte da versão pública deste projeto.
+A Plataforma Web e o Aplicativo Android são **protótipos demonstrativos**, desenvolvidos como parte do trabalho de UX/UI e experimentação de produtos digitais.
+
+O código-fonte das aplicações não faz parte da versão pública deste projeto.
 
 Este repositório funciona como **portfólio, documentação e registro do processo de construção do universo de Ivaitá**.
 
@@ -347,5 +394,7 @@ Este repositório funciona como **portfólio, documentação e registro do proce
 <p align="center">
   <a href="docs/Canone_Ivaita_SP_Consolidado_v0.01.pdf"><strong>📖 Cânone</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://ivaita-portal.pages.dev/"><strong>🌐 Plataforma Digital</strong></a>
+  <a href="https://ivaita-portal.pages.dev/"><strong>🌐 Plataforma Web</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/maturbuk/Identidade-Visual-de-Ivait---SP/releases/tag/V0.1"><strong>📱 App Android</strong></a>
 </p>
